@@ -56,7 +56,7 @@
                         break; 
                         case 'Low': ?>
                             <option selected>Low</option>
-                            <option>Normal</option>
+                            <option>Normal1</option>
                             <option>High</option> <?php
                         break;
                     } ?>                        
